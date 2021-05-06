@@ -1,0 +1,25 @@
+in total ,we have created 5 user-defined functions that perform  on 5 specific tasks.
+for exp, function checkworkload  is created to count the numbers of the courses that the member has registered.
+             function checkusagetime  is created to calculate the time since purchase
+            function checkmembership expired is bulit to  check if the membership has expired.
+next
+
+
+we have 2 constraints are used to specify rules for the data in a table,they are based on the functions created before.
+
+constraint obsoleteEquipment is created  for retiring old equipments.in other words, equipments are unable to be
+ inserted if they are bought 5 years ago
+next
+
+constraint membershipExpired is built for checking the expired membership(if expired, the member cannot add any course anymore)
+next
+
+
+we have 2 computed columns that use data form other columns to calculate the required data automatically. 
+they are also based on the functions created before.
+
+column BasalMetabolicRate is added to calculate the basal metabolic rate of each member by usage of data on physical condition
+next
+
+column TotalConsumption is created to Calculate the total consumption of the each user on courses in the gym
+ my part is done, next part for jingya zhou

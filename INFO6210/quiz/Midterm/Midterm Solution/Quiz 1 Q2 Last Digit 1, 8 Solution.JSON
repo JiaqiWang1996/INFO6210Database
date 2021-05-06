@@ -1,0 +1,25 @@
+{
+  "TerritoryID": 5,
+  "TerritoryName": "Southeast",
+  "States": [
+    {
+      "State": "Alabama",
+      
+    },
+    {
+      "State": "Florida",
+      
+    },
+    {
+      "State": "Georgia",
+      
+    },
+    {
+      "State": "Kentucky",
+      
+    },
+    {
+      "State": "Mississipi"
+    }
+  ]
+}
